@@ -1,0 +1,23 @@
+.where-togo {
+
+    background-color: rgba(0, 0, 65, 0.897);
+    color: white;
+    text-align: left;
+
+
+}
+
+
+
+#search {
+background-color: rgb(245, 99, 123);
+color: white;
+padding: 10px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.search-background {
+    background-color:rgba(0, 0, 65, 0.897);
+    color: white;
+}
